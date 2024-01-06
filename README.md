@@ -9,4 +9,4 @@ Using VBA script that loops through all stocks for each year and outputs a summa
   - Summary of the Greatest Percentage Increase, Greatest Percentage Decrease and Greatest Total Volume including Ticker Symbol and Value for each.
 
 The script runs on three worksheets for three year's of stock data.
-Conditional formatting is applied via VBA script for color coding to highlight positive and negative Yearly Change in stock price. Number formatting on the Percent Change column to include appropriate decimal values and the percent symbol. Final formatting included script for AutoFit on each column.
+Conditional formatting is applied via VBA script for color coding to highlight positive and negative Yearly Change in stock price. Number formatting on the Percent Change column to include appropriate decimal values and the percent symbol. Final formatting includes script for AutoFit on each column.
