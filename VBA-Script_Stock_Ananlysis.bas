@@ -1,5 +1,3 @@
-Attribute VB_Name = "Module1"
-
 '--------------------------------------------------------------------------------------
     ' CREATE A SCRIPT TO LOOP THROUGH ALL STOCKS FOR ONE YEAR AND OUTPUTS THE FOLLOWING:
         ' TICKER SYMBOL
